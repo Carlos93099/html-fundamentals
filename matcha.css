@@ -1,0 +1,39 @@
+body{
+    background-color: #FFFBF7;
+}
+
+h1 {
+    color: #025157;
+    font-weight: bold;
+    text-align: center;
+}
+
+h4
+{
+    text-align: center;
+}
+
+input {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+button {
+    background-color:  #025157;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
